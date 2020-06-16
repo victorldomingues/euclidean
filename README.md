@@ -1,5 +1,5 @@
 # euclidean.gostack
-Euclidean API # GoStack Rocketseat - Desafio: Conceitos do Node.js -  Node.js > Yarn > Express
+Euclidean API # Node.js > Yarn > Express
 
 👨🏽‍💻
 
