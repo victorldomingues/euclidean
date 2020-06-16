@@ -1,6 +1,8 @@
 # euclidean.gostack
 Euclidean API # GoStack Rocketseat - Desafio: Conceitos do Node.js -  Node.js > Yarn > Express
 
+👨🏽‍💻
+
 API modelada para criar representar objetos da Geometria euclidiana de forma iterativa.
 
 ## Iniciando
