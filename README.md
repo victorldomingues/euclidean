@@ -1,4 +1,4 @@
-# euclidean.gostack
+# euclidean
 Euclidean API # Node.js > Yarn > Express
 
 👨🏽‍💻
